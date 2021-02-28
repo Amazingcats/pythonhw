@@ -1,1 +1,3 @@
-# pythonhw
+# Random Stuff
+
+PYTHON HW
